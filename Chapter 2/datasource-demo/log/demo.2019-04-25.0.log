@@ -1,0 +1,11 @@
+2019-04-25 21:58:11,405 INFO (StartupInfoLogger.java:50)- Starting DataSourceDemoApplication on JACKY with PID 11796 (D:\Download\datasource-demo\target\classes started by Administrator in D:\Download\datasource-demo)
+2019-04-25 21:58:11,405 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-04-25 21:58:11,408 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2019-04-25 21:58:16,205 INFO (StartupInfoLogger.java:59)- Started DataSourceDemoApplication in 6.882 seconds (JVM running for 8.318)
+2019-04-25 21:58:16,228 INFO (DataSourceDemoApplication.java:45)- HikariDataSource (HikariPool-1)
+2019-04-25 21:58:16,229 INFO (DataSourceDemoApplication.java:47)- HikariProxyConnection@3349318 wrapping com.mysql.jdbc.JDBC4Connection@1383681
+2019-04-25 21:58:16,566 INFO (DataSourceDemoApplication.java:53)- {ID=1, BAR=aaa}
+2019-04-25 21:58:16,567 INFO (DataSourceDemoApplication.java:53)- {ID=2, BAR=bbb}
+2019-04-25 22:00:58,419 INFO (StartupInfoLogger.java:50)- Starting DataSourceDemoApplication on JACKY with PID 11728 (D:\Download\datasource-demo\target\classes started by Administrator in D:\Download\datasource-demo)
+2019-04-25 22:00:58,459 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-04-25 22:00:58,462 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
