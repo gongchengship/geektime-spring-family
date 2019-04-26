@@ -1,5 +1,0 @@
-2019-04-26 12:13:49,233 INFO (StartupInfoLogger.java:59)- Started DataSourceDemoApplication in 7.105 seconds (JVM running for 10.223)
-2019-04-26 12:13:49,265 INFO (DataSourceDemoApplication.java:45)- HikariDataSource (HikariPool-1)
-2019-04-26 12:13:49,266 INFO (DataSourceDemoApplication.java:47)- HikariProxyConnection@1221675 wrapping com.mysql.jdbc.JDBC4Connection@5404d5
-2019-04-26 12:13:49,398 INFO (DataSourceDemoApplication.java:53)- {ID=1, BAR=aaa}
-2019-04-26 12:13:49,399 INFO (DataSourceDemoApplication.java:53)- {ID=2, BAR=bbb}
