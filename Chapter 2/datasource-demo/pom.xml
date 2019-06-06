@@ -52,8 +52,9 @@
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>5.1.47</version>
-<!--			<scope>runtime</scope>-->
+<!--	当mysql数据库版本低于8的时候，需要用最高5.1.47的驱动，并且驱动类要配置	-->
+<!--			<version>5.1.47</version>-->
+<!--	        <scope>runtime</scope>-->
 		</dependency>
 		
 		<dependency>
